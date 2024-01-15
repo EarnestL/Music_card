@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Music_card.X
+PROJECTNAME=Music_card
 
 # Active Configuration
 DEFAULTCONF=default
