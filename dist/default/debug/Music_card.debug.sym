@@ -171,8 +171,8 @@ text6 3EE 417 CODE 3EE 0
 text7 3CA 3ED CODE 3CA 0
 idataBANK0 3C6 3C9 CODE 3C6 0
 %locals
-dist/default/production\Music_card.production.o
-C:\Users\earne\AppData\Local\Temp\xcAsp80.s
+dist/default/debug\Music_card.debug.o
+C:\Users\earne\AppData\Local\Temp\xcAssdk.s
 494 3FA 0 CODE 0
 497 3FA 0 CODE 0
 511 3FA 0 CODE 0
